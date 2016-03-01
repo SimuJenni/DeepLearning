@@ -1,3 +1,4 @@
-*.png
-*.pickle
+notMNIST_small
+notMNIST_large
 *.gz
+*.pickle
