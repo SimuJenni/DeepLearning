@@ -2,3 +2,4 @@ notMNIST_small
 notMNIST_large
 *.gz
 *.pickle
+.ipynb_checkpoints
