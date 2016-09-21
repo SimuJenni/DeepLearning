@@ -3,3 +3,8 @@ notMNIST_large
 *.gz
 *.pickle
 .ipynb_checkpoints
+*.pdf
+
+*.jpg
+
+*.h5
